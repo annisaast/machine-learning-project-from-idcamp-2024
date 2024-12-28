@@ -9513,7 +9513,7 @@ std-9511,female,group C,high school,1,1,51,99,61,51,262,B
 std-9512,female,group D,bachelor's degree,1,0,46,51,55,66,218,C
 std-9513,female,group E,high school,0,1,65,48,45,57,215,C
 std-9514,female,group D,associate's degree,1,0,90,45,100,81,316,B
-std-9515,femalegroup Abachelor's degree,1,0,63,54,89,39,245,C
+std-9515,female,group A,bachelor's degree,1,0,63,54,89,39,245,C
 std-9516,female,group D,high school,1,0,100,56,37,69,262,B
 std-9517,female,group E,some college,1,0,47,77,100,69,293,B
 std-9518,female,group C,some college,1,0,100,86,100,64,350,A
