@@ -128,7 +128,7 @@ std-126,male,group B,some college,1,0,20,76,27,43,166,D
 std-127,male,group C,high school,1,1,50,100,67,100,317,B
 std-128,male,group D,some college,1,1,65,85,72,72,294,B
 std-129,male,group E,some college,0,1,23,100,92,67,282,B
-std-130,male,group B,master's degree,1,0,32,48,51,9,140,Fail
+std-130,male,group B,master's degree,1,0,32,48,51,9,140,E
 std-131,male,group E,high school,1,0,61,59,100,54,274,B
 std-132,male,group B,some high school,0,0,73,78,96,81,328,A
 std-133,male,group B,bachelor's degree,1,0,88,85,79,100,352,A
@@ -177,7 +177,7 @@ std-175,male,group D,some college,1,0,39,41,48,62,190,D
 std-176,male,group B,master's degree,0,0,30,69,93,91,283,B
 std-177,male,group E,high school,1,1,68,91,65,98,322,A
 std-178,male,group E,some high school,1,1,71,80,58,58,267,B
-std-179,male,group D,associate's degree,1,0,14,36,25,,124,Fail
+std-179,male,group D,associate's degree,1,0,14,36,25,,124,E
 std-180,male,group C,some high school,1,1,44,80,,61,285,B
 std-181,male,group C,high school,0,0,69,,49,48,248,C
 std-182,male,group B,high school,0,0,,95,33,49,219,C
@@ -222,7 +222,7 @@ std-220,male,group B,associate's degree,0,0,75,57,42,53,227,C
 std-221,male,group C,some college,0,1,40,83,99,100,322,A
 std-222,male,group A,bachelor's degree,1,0,79,100,62,63,304,B
 std-223,male,group B,bachelor's degree,0,1,44,86,65,88,283,B
-std-224,male,group D,bachelor's degree,1,0,20,46,65,15,146,Fail
+std-224,male,group D,bachelor's degree,1,0,20,46,65,15,146,E
 std-225,male,group A,some high school,1,1,16,70,56,77,219,C
 std-226,male,group C,high school,0,0,65,45,56,45,211,C
 std-227,male,group E,high school,1,1,68,67,72,30,237,C
@@ -281,7 +281,7 @@ std-279,male,group D,some college,0,0,58,64,70,38,230,C
 std-280,male,group C,bachelor's degree,0,0,23,72,90,55,240,C
 std-281,male,group B,high school,1,0,46,92,52,32,222,C
 std-282,male,group D,high school,1,1,20,74,34,29,157,D
-std-283,male,group D,bachelor's degree,1,0,17,55,44,31,147,Fail
+std-283,male,group D,bachelor's degree,1,0,17,55,44,31,147,E
 std-284,male,group D,associate's degree,1,0,25,71,59,69,224,C
 std-285,male,group C,bachelor's degree,1,1,70,48,79,65,262,B
 std-286,male,group D,some college,0,0,46,69,70,44,229,C
@@ -291,7 +291,7 @@ std-289,male,group B,bachelor's degree,1,0,61,40,72,44,217,C
 std-290,male,group B,high school,1,0,68,100,100,62,330,A
 std-291,male,group B,master's degree,0,0,68,65,76,59,268,B
 std-292,male,group D,associate's degree,1,0,41,35,66,37,179,D
-std-293,male,group D,bachelor's degree,1,1,24,33,47,11,115,Fail
+std-293,male,group D,bachelor's degree,1,1,24,33,47,11,115,E
 std-294,male,group E,bachelor's degree,0,0,48,94,100,49,291,B
 std-295,male,group D,master's degree,1,1,54,86,87,48,275,B
 std-296,male,group C,associate's degree,1,1,37,100,96,64,297,B
@@ -324,7 +324,7 @@ std-322,male,group E,associate's degree,0,1,98,60,70,69,297,B
 std-323,male,group D,master's degree,1,0,30,63,73,43,209,C
 std-324,male,group E,master's degree,0,1,71,100,73,40,284,B
 std-325,male,group C,high school,0,0,39,58,34,46,177,D
-std-326,male,group D,some high school,0,1,19,46,67,9,141,Fail
+std-326,male,group D,some high school,0,1,19,46,67,9,141,E
 std-327,male,group B,master's degree,1,1,35,95,57,57,244,C
 std-328,male,group C,some high school,1,0,42,100,100,80,322,A
 std-329,male,group B,associate's degree,1,1,86,71,59,47,263,B
@@ -383,7 +383,7 @@ std-381,male,group C,high school,1,0,51,42,70,27,190,D
 std-382,male,group D,high school,0,1,67,49,38,58,212,C
 std-383,male,group B,some high school,1,0,23,96,67,38,224,C
 std-384,male,group E,master's degree,1,0,72,88,72,43,275,B
-std-385,male,group C,associate's degree,1,0,13,24,53,31,121,Fail
+std-385,male,group C,associate's degree,1,0,13,24,53,31,121,E
 std-386,male,group E,bachelor's degree,1,1,89,75,52,86,302,B
 std-387,male,group D,some college,1,1,28,17,52,58,155,D
 std-388,male,group E,some high school,1,1,18,87,100,26,231,C
@@ -393,7 +393,7 @@ std-391,male,group C,bachelor's degree,1,0,20,89,88,96,293,B
 std-392,male,group C,associate's degree,0,1,48,48,87,71,254,B
 std-393,male,group C,some college,1,0,19,76,61,57,213,C
 std-394,male,group D,associate's degree,0,0,53,72,63,67,255,B
-std-395,male,group D,master's degree,0,0,30,21,48,40,139,Fail
+std-395,male,group D,master's degree,0,0,30,21,48,40,139,E
 std-396,male,group D,some high school,0,1,89,99,60,62,310,B
 std-397,male,group D,master's degree,1,0,36,100,61,75,272,B
 std-398,male,group D,bachelor's degree,1,0,81,47,83,85,296,B
@@ -404,7 +404,7 @@ std-402,male,group D,bachelor's degree,0,0,48,71,91,98,308,B
 std-403,male,group C,bachelor's degree,0,1,64,74,49,86,273,B
 std-404,male,group E,bachelor's degree,1,0,73,73,82,29,257,B
 std-405,male,group E,high school,0,1,25,40,69,52,186,D
-std-406,male,group D,associate's degree,1,0,28,25,45,37,135,Fail
+std-406,male,group D,associate's degree,1,0,28,25,45,37,135,E
 std-407,,group C,high school,1,0,54,55,66,100,275,B
 std-408,male,group A,,0,0,17,59,51,61,188,D
 std-409,male,group C,associate's degree,,1,85,46,76,90,297,B
@@ -542,7 +542,7 @@ std-540,male,group C,bachelor's degree,0,0,31,57,73,82,243,C
 std-541,male,group E,associate's degree,0,0,50,34,39,80,203,C
 std-542,male,group D,high school,0,0,40,82,25,82,229,C
 std-543,male,group C,master's degree,0,1,54,86,79,73,292,B
-std-544,male,group C,master's degree,1,0,30,35,40,22,127,Fail
+std-544,male,group C,master's degree,1,0,30,35,40,22,127,E
 std-545,male,group E,some college,1,1,40,82,84,72,278,B
 std-546,male,group B,bachelor's degree,0,0,39,86,63,72,260,B
 std-547,male,group D,high school,1,1,49,60,79,83,271,B
@@ -783,7 +783,7 @@ std-781,male,group C,high school,1,0,57,97,59,84,297,B
 std-782,male,group D,some high school,1,1,71,92,80,88,331,A
 std-783,male,group D,bachelor's degree,1,1,17,72,84,72,245,C
 std-784,male,group E,some college,0,0,44,77,59,77,257,B
-std-785,male,group B,bachelor's degree,1,0,30,17,33,9,89,Fail
+std-785,male,group B,bachelor's degree,1,0,30,17,33,9,89,E
 std-786,male,group C,bachelor's degree,1,0,19,78,74,65,236,C
 std-787,male,group A,some college,0,0,43,100,54,51,248,C
 std-788,male,group B,high school,1,0,84,17,67,51,219,C
@@ -794,7 +794,7 @@ std-792,male,group B,some high school,1,0,42,79,68,32,221,C
 std-793,male,group D,bachelor's degree,0,0,64,81,82,92,319,B
 std-794,male,group D,high school,1,1,22,86,55,44,207,C
 std-795,male,group E,bachelor's degree,1,1,49,63,75,82,269,B
-std-796,male,group D,some high school,1,1,30,54,52,11,147,Fail
+std-796,male,group D,some high school,1,1,30,54,52,11,147,E
 std-797,male,group C,some college,0,1,51,80,44,56,231,C
 std-798,male,group C,high school,1,1,41,67,85,70,263,B
 std-799,male,group B,some college,1,1,95,73,68,58,294,B
@@ -827,7 +827,7 @@ std-825,male,group B,some high school,0,0,51,74,49,54,228,C
 std-826,male,group D,associate's degree,1,0,49,44,37,77,207,C
 std-827,male,group B,master's degree,1,0,31,89,49,98,267,B
 std-828,male,group B,some college,1,0,60,86,71,57,274,B
-std-829,male,group D,master's degree,0,1,41,53,30,9,133,Fail
+std-829,male,group D,master's degree,0,1,41,53,30,9,133,E
 std-830,male,group E,bachelor's degree,0,1,61,90,70,62,283,B
 std-831,male,group A,some college,0,0,29,72,87,78,266,B
 std-832,male,group B,some college,1,0,34,58,47,32,171,D
@@ -885,7 +885,7 @@ std-883,male,group E,high school,1,0,27,73,73,45,218,C
 std-884,male,group B,bachelor's degree,1,0,66,94,74,67,301,B
 std-885,male,group C,associate's degree,1,0,24,78,74,67,243,C
 std-886,male,group B,associate's degree,1,0,57,64,82,57,260,B
-std-887,male,group C,bachelor's degree,1,0,12,39,33,64,148,Fail
+std-887,male,group C,bachelor's degree,1,0,12,39,33,64,148,E
 std-888,male,group E,some college,0,1,53,56,69,43,221,C
 std-889,male,group C,associate's degree,1,0,62,62,72,78,274,B
 std-890,male,group C,associate's degree,0,1,39,53,94,79,265,B
@@ -911,7 +911,7 @@ std-909,male,group E,bachelor's degree,1,1,44,98,48,83,273,B
 std-910,male,group B,associate's degree,0,1,47,70,41,35,193,D
 std-911,male,group C,master's degree,0,1,51,86,59,83,279,B
 std-912,male,group C,high school,1,1,100,60,53,55,268,B
-std-913,male,group C,associate's degree,0,0,21,48,33,28,130,Fail
+std-913,male,group C,associate's degree,0,0,21,48,33,28,130,E
 std-914,male,group E,associate's degree,1,0,69,94,72,80,315,B
 std-915,male,group B,some college,1,1,43,90,97,54,284,B
 std-916,male,group B,associate's degree,1,0,63,96,79,84,322,A
@@ -1209,7 +1209,7 @@ std-1207,male,group A,high school,1,1,35,59,40,50,184,D
 std-1208,male,group C,high school,1,0,99,93,84,100,376,A
 std-1209,male,group C,bachelor's degree,1,1,36,83,48,66,233,C
 std-1210,male,group B,bachelor's degree,1,1,44,57,82,63,246,C
-std-1211,male,group D,some college,1,0,20,61,10,19,110,Fail
+std-1211,male,group D,some college,1,0,20,61,10,19,110,E
 std-1212,male,group C,bachelor's degree,1,0,37,63,52,94,246,C
 std-1213,male,group B,some college,0,1,39,63,60,87,249,C
 std-1214,male,group A,high school,1,0,59,86,98,79,322,A
@@ -1249,7 +1249,7 @@ std-1247,male,group E,some high school,1,0,35,94,52,82,263,B
 std-1248,male,group D,associate's degree,1,1,67,87,47,47,248,C
 std-1249,male,group C,high school,1,0,38,99,83,98,318,B
 std-1250,male,group B,associate's degree,0,0,51,57,86,39,233,C
-std-1251,male,group C,bachelor's degree,1,0,13,69,35,30,147,Fail
+std-1251,male,group C,bachelor's degree,1,0,13,69,35,30,147,E
 std-1252,male,group B,high school,1,0,28,78,49,37,192,D
 std-1253,male,group C,some college,1,1,67,39,71,97,274,B
 std-1254,male,group D,high school,1,1,35,94,59,91,279,B
@@ -1319,7 +1319,7 @@ std-1317,male,group D,some college,0,0,15,42,37,66,160,D
 std-1318,male,group C,some high school,1,1,93,91,64,27,275,B
 std-1319,male,group D,master's degree,1,0,18,67,56,35,176,D
 std-1320,male,group B,some college,0,0,37,78,46,9,170,D
-std-1321,male,group C,some high school,0,0,29,51,38,9,127,Fail
+std-1321,male,group C,some high school,0,0,29,51,38,9,127,E
 std-1322,male,group D,bachelor's degree,1,0,31,86,63,48,228,C
 std-1323,male,group E,master's degree,0,0,37,50,77,64,228,C
 std-1324,male,group D,high school,1,0,37,100,61,94,292,B
@@ -1414,7 +1414,7 @@ std-1412,male,group E,some college,1,0,48,43,27,91,209,C
 std-1413,male,group C,associate's degree,1,0,71,41,79,54,245,C
 std-1414,male,group B,some high school,1,0,29,76,50,61,216,C
 std-1415,male,group C,some college,0,1,51,67,82,68,268,B
-std-1416,male,group D,bachelor's degree,1,0,24,40,35,27,126,Fail
+std-1416,male,group D,bachelor's degree,1,0,24,40,35,27,126,E
 std-1417,male,group D,high school,1,0,68,79,68,100,315,B
 std-1418,male,group D,bachelor's degree,1,0,70,91,35,64,260,B
 std-1419,male,group D,some college,1,1,100,83,82,60,325,A
@@ -1442,7 +1442,7 @@ std-1440,male,group E,some college,0,0,67,82,42,44,235,C
 std-1441,male,group E,some college,0,1,79,86,62,45,272,B
 std-1442,male,group B,high school,0,0,24,60,63,61,208,C
 std-1443,male,group B,some high school,0,1,80,94,61,38,273,B
-std-1444,male,group E,some college,1,0,8,35,54,47,144,Fail
+std-1444,male,group E,some college,1,0,8,35,54,47,144,E
 std-1445,male,group D,high school,0,0,38,91,61,35,225,C
 std-1446,male,group C,bachelor's degree,1,0,50,47,85,34,216,C
 std-1447,male,group C,bachelor's degree,1,0,89,40,10,76,215,C
@@ -1510,7 +1510,7 @@ std-1508,male,group D,high school,0,0,72,79,11,47,209,C
 std-1509,male,group A,some high school,1,0,38,92,53,49,232,C
 std-1510,male,group C,some college,1,0,14,77,95,70,256,B
 std-1511,male,group D,high school,0,0,83,47,72,81,283,B
-std-1512,male,group C,some high school,1,0,7,38,39,42,126,Fail
+std-1512,male,group C,some high school,1,0,7,38,39,42,126,E
 std-1513,male,group A,some college,0,0,59,100,59,45,263,B
 std-1514,male,group C,high school,1,1,49,100,59,70,278,B
 std-1515,male,group E,high school,0,1,80,95,89,35,299,B
@@ -1610,7 +1610,7 @@ std-1608,male,group C,high school,1,1,51,87,80,57,275,B
 std-1609,male,group C,associate's degree,1,1,31,100,48,62,241,C
 std-1610,male,group E,some college,1,0,22,17,63,70,172,D
 std-1611,male,group B,associate's degree,1,0,78,78,54,86,296,B
-std-1612,male,group D,some high school,0,0,36,29,62,14,141,Fail
+std-1612,male,group D,some high school,0,0,36,29,62,14,141,E
 std-1613,male,group A,associate's degree,1,1,84,70,49,80,283,B
 std-1614,male,group C,associate's degree,1,1,91,100,58,24,273,B
 std-1615,male,group E,associate's degree,0,0,35,62,62,18,177,D
@@ -1685,7 +1685,7 @@ std-1683,male,group C,high school,1,0,82,87,83,34,286,B
 std-1684,male,group B,master's degree,1,0,72,17,69,66,224,C
 std-1685,male,group D,associate's degree,0,0,39,67,75,84,265,B
 std-1686,male,group C,associate's degree,1,0,58,83,76,83,300,B
-std-1687,male,group B,some high school,0,1,25,43,63,9,140,Fail
+std-1687,male,group B,some high school,0,1,25,43,63,9,140,E
 std-1688,male,group B,associate's degree,0,0,89,55,74,60,278,B
 std-1689,male,group C,some college,1,1,95,60,89,92,336,A
 std-1690,male,group C,associate's degree,1,0,64,51,63,63,241,C
@@ -1740,7 +1740,7 @@ std-1738,male,group E,bachelor's degree,0,0,58,76,52,87,273,B
 std-1739,male,group A,some high school,1,1,60,60,82,46,248,C
 std-1740,male,group B,associate's degree,0,0,27,67,57,56,207,C
 std-1741,male,group B,some college,0,1,63,61,41,50,215,C
-std-1742,male,group B,high school,0,0,18,17,75,35,145,Fail
+std-1742,male,group B,high school,0,0,18,17,75,35,145,E
 std-1743,male,group C,bachelor's degree,1,1,66,48,50,38,202,C
 std-1744,male,group E,some college,0,0,48,59,77,45,229,C
 std-1745,male,group A,associate's degree,1,0,38,66,43,42,189,D
@@ -1881,7 +1881,7 @@ std-1879,male,group C,bachelor's degree,0,0,30,96,64,83,273,B
 std-1880,male,group C,bachelor's degree,1,0,81,57,71,100,309,B
 std-1881,male,group D,master's degree,1,0,58,55,53,49,215,C
 std-1882,male,group B,high school,0,0,17,92,92,52,253,B
-std-1883,male,group C,associate's degree,1,0,11,43,54,32,140,Fail
+std-1883,male,group C,associate's degree,1,0,11,43,54,32,140,E
 std-1884,male,group E,bachelor's degree,1,1,37,70,59,42,208,C
 std-1885,male,group C,bachelor's degree,1,0,79,97,94,82,352,A
 std-1886,male,group A,master's degree,1,0,31,85,70,60,246,C
@@ -1910,7 +1910,7 @@ std-1908,male,group C,master's degree,1,1,33,92,64,66,255,B
 std-1909,male,group D,some high school,0,1,54,75,71,85,285,B
 std-1910,male,group D,high school,0,0,45,66,58,70,239,C
 std-1911,male,group D,bachelor's degree,0,0,86,43,88,64,281,B
-std-1912,male,group C,associate's degree,0,0,13,62,33,31,139,Fail
+std-1912,male,group C,associate's degree,0,0,13,62,33,31,139,E
 std-1913,male,group C,some college,1,0,41,75,54,99,269,B
 std-1914,male,group A,some high school,1,1,35,76,62,21,194,D
 std-1915,male,group C,some college,1,0,48,91,37,70,246,C
@@ -2020,7 +2020,7 @@ std-2018,male,group D,associate's degree,1,1,0,53,74,82,209,C
 std-2019,male,group D,some high school,1,0,99,80,74,91,344,A
 std-2020,male,group C,some high school,0,0,73,100,79,63,315,B
 std-2021,male,group C,some college,1,0,45,47,64,100,256,B
-std-2022,male,group E,some college,1,0,26,41,53,9,129,Fail
+std-2022,male,group E,some college,1,0,26,41,53,9,129,E
 std-2023,male,group B,high school,0,0,81,70,48,81,280,B
 std-2024,male,group C,high school,1,0,36,86,86,42,250,B
 std-2025,male,group D,bachelor's degree,1,0,23,89,48,82,242,C
@@ -2055,7 +2055,7 @@ std-2053,male,group D,bachelor's degree,0,1,62,69,100,76,307,B
 std-2054,male,group D,associate's degree,1,1,40,74,32,58,204,C
 std-2055,male,group D,bachelor's degree,0,1,30,64,55,55,204,C
 std-2056,male,group B,some college,1,1,13,79,45,97,234,C
-std-2057,male,group B,some college,0,0,32,48,25,30,135,Fail
+std-2057,male,group B,some college,0,0,32,48,25,30,135,E
 std-2058,male,group C,associate's degree,0,1,33,51,61,68,213,C
 std-2059,male,group E,some college,1,0,10,67,55,70,202,C
 std-2060,male,group C,some college,1,1,41,67,67,51,226,C
@@ -2081,7 +2081,7 @@ std-2079,male,group A,some high school,0,0,19,73,56,39,187,D
 std-2080,male,group E,some high school,1,1,24,51,59,41,175,D
 std-2081,male,group E,some high school,1,0,28,34,69,59,190,D
 std-2082,male,group D,some college,1,0,52,91,64,58,265,B
-std-2083,male,group A,some high school,1,0,11,44,73,9,137,Fail
+std-2083,male,group A,some high school,1,0,11,44,73,9,137,E
 std-2084,male,group D,some college,1,1,16,53,51,44,164,D
 std-2085,male,group E,master's degree,1,0,76,47,53,99,275,B
 std-2086,male,group A,high school,1,0,51,61,54,56,222,C
@@ -2090,7 +2090,7 @@ std-2088,male,group C,high school,0,1,38,37,78,54,207,C
 std-2089,male,group C,high school,1,0,100,100,71,87,358,A
 std-2090,male,group B,associate's degree,0,1,28,100,54,76,258,B
 std-2091,male,group E,high school,0,0,47,57,89,69,262,B
-std-2092,male,group E,bachelor's degree,1,0,14,29,56,36,135,Fail
+std-2092,male,group E,bachelor's degree,1,0,14,29,56,36,135,E
 std-2093,male,group C,some high school,0,0,44,72,63,61,240,C
 std-2094,male,group C,master's degree,1,1,69,64,46,47,226,C
 std-2095,male,group B,high school,1,0,72,70,70,55,267,B
@@ -2168,7 +2168,7 @@ std-2166,male,group B,some college,1,1,87,100,78,83,348,A
 std-2167,male,group E,associate's degree,1,0,61,100,70,47,278,B
 std-2168,male,group C,some high school,1,0,33,54,66,42,195,D
 std-2169,male,group D,some college,1,1,70,99,62,74,305,B
-std-2170,male,group B,master's degree,1,0,23,24,47,50,144,Fail
+std-2170,male,group B,master's degree,1,0,23,24,47,50,144,E
 std-2171,male,group C,some college,0,0,59,76,100,51,286,B
 std-2172,male,group C,associate's degree,0,0,48,44,33,48,173,D
 std-2173,male,group D,high school,1,0,56,83,56,34,229,C
@@ -2340,7 +2340,7 @@ std-2338,male,group A,some high school,1,0,32,69,100,73,274,B
 std-2339,male,group B,some high school,0,1,64,81,48,59,252,B
 std-2340,male,group E,some college,0,0,71,92,66,97,326,A
 std-2341,male,group C,some high school,1,1,66,81,46,27,220,C
-std-2342,male,group D,associate's degree,0,1,36,29,42,40,147,Fail
+std-2342,male,group D,associate's degree,0,1,36,29,42,40,147,E
 std-2343,male,group A,bachelor's degree,0,0,13,72,50,42,177,D
 std-2344,male,group D,high school,1,1,58,77,93,65,293,B
 std-2345,male,group E,some college,1,0,26,57,75,100,258,B
@@ -2355,7 +2355,7 @@ std-2353,male,group C,some college,0,0,19,100,37,63,219,C
 std-2354,male,group D,some college,0,1,50,40,47,52,189,D
 std-2355,male,group D,high school,0,1,31,49,68,30,178,D
 std-2356,male,group D,some college,1,0,62,36,67,46,211,C
-std-2357,male,group C,master's degree,0,1,25,40,55,29,149,Fail
+std-2357,male,group C,master's degree,0,1,25,40,55,29,149,E
 std-2358,male,group E,associate's degree,1,0,67,68,67,68,270,B
 std-2359,male,group B,high school,1,0,57,17,59,60,193,D
 std-2360,male,group A,high school,1,1,75,81,65,47,268,B
@@ -2402,7 +2402,7 @@ std-2400,male,group C,some college,1,0,32,93,58,48,231,C
 std-2401,male,group E,some high school,1,0,62,87,60,71,280,B
 std-2402,male,group A,master's degree,0,0,35,86,56,98,275,B
 std-2403,male,group C,associate's degree,0,1,26,94,85,76,281,B
-std-2404,male,group E,some high school,1,0,4,41,50,48,143,Fail
+std-2404,male,group E,some high school,1,0,4,41,50,48,143,E
 std-2405,male,group B,some high school,0,1,16,74,74,59,223,C
 std-2406,male,group B,some college,0,1,10,89,56,51,206,C
 std-2407,male,group C,master's degree,0,1,68,69,64,59,260,B
@@ -2444,7 +2444,7 @@ std-2442,male,group D,bachelor's degree,1,0,15,69,51,72,207,C
 std-2443,male,group A,high school,1,0,37,79,60,57,233,C
 std-2444,male,group D,associate's degree,1,1,39,53,66,64,222,C
 std-2445,male,group E,some college,1,1,75,79,37,89,280,B
-std-2446,male,group E,bachelor's degree,1,0,49,31,32,25,137,Fail
+std-2446,male,group E,bachelor's degree,1,0,49,31,32,25,137,E
 std-2447,male,group C,associate's degree,0,0,42,44,53,53,192,D
 std-2448,male,group D,high school,1,0,38,93,70,94,295,B
 std-2449,male,group B,some college,0,0,33,87,97,51,268,B
@@ -2483,7 +2483,7 @@ std-2481,male,group C,associate's degree,1,0,28,45,66,83,222,C
 std-2482,male,group C,bachelor's degree,1,0,48,89,59,64,260,B
 std-2483,male,group E,associate's degree,0,0,72,57,72,89,290,B
 std-2484,male,group E,bachelor's degree,1,1,57,44,45,63,209,C
-std-2485,male,group D,some college,0,0,0,63,36,47,146,Fail
+std-2485,male,group D,some college,0,0,0,63,36,47,146,E
 std-2486,male,group D,associate's degree,0,0,75,100,65,46,286,B
 std-2487,male,group C,associate's degree,0,1,41,79,41,82,243,C
 std-2488,male,group C,some high school,0,1,55,34,75,62,226,C
@@ -2558,7 +2558,7 @@ std-2556,male,group B,associate's degree,1,0,10,81,61,30,182,D
 std-2557,male,group D,associate's degree,0,0,50,95,10,36,191,D
 std-2558,male,group D,high school,0,1,40,68,59,72,239,C
 std-2559,male,group E,some college,0,1,15,75,71,47,208,C
-std-2560,male,group B,bachelor's degree,0,1,12,51,54,15,132,Fail
+std-2560,male,group B,bachelor's degree,0,1,12,51,54,15,132,E
 std-2561,male,group A,some college,1,1,37,81,61,93,272,B
 std-2562,male,group E,some college,1,1,100,60,86,65,311,B
 std-2563,male,group C,some college,0,0,67,41,73,36,217,C
@@ -2740,7 +2740,7 @@ std-2738,male,group B,some college,0,0,24,50,90,76,240,C
 std-2739,male,group D,bachelor's degree,0,1,43,61,49,74,227,C
 std-2740,male,group C,associate's degree,0,1,53,91,59,73,276,B
 std-2741,male,group E,some college,1,0,57,62,89,35,243,C
-std-2742,male,group C,some college,1,0,30,38,52,24,144,Fail
+std-2742,male,group C,some college,1,0,30,38,52,24,144,E
 std-2743,male,group D,associate's degree,1,0,74,100,75,93,342,A
 std-2744,male,group B,associate's degree,0,0,58,76,91,55,280,B
 std-2745,male,group D,bachelor's degree,0,1,93,71,74,89,327,A
@@ -2879,11 +2879,11 @@ std-2877,male,group D,associate's degree,0,1,63,68,100,44,275,B
 std-2878,male,group B,high school,1,0,47,65,76,75,263,B
 std-2879,male,group C,associate's degree,0,0,46,100,91,81,318,B
 std-2880,male,group B,high school,1,0,43,84,61,39,227,C
-std-2881,male,group E,master's degree,1,0,17,48,23,50,138,Fail
+std-2881,male,group E,master's degree,1,0,17,48,23,50,138,E
 std-2882,male,group C,bachelor's degree,1,0,80,60,67,87,294,B
 std-2883,male,group C,bachelor's degree,0,0,20,100,76,26,222,C
 std-2884,male,group C,some college,1,1,86,75,100,90,351,A
-std-2885,male,group A,some college,1,0,27,45,29,41,142,Fail
+std-2885,male,group A,some college,1,0,27,45,29,41,142,E
 std-2886,male,group D,high school,1,0,59,100,100,60,319,B
 std-2887,male,group B,some college,1,1,59,100,61,56,276,B
 std-2888,male,group C,high school,1,0,52,60,71,81,264,B
@@ -2899,7 +2899,7 @@ std-2897,male,group A,master's degree,0,0,29,79,62,51,221,C
 std-2898,male,group D,some high school,1,0,36,100,69,83,288,B
 std-2899,male,group C,associate's degree,1,0,23,82,69,81,255,B
 std-2900,male,group A,some college,0,0,48,68,63,51,230,C
-std-2901,male,group D,bachelor's degree,1,0,36,59,10,35,140,Fail
+std-2901,male,group D,bachelor's degree,1,0,36,59,10,35,140,E
 std-2902,male,group C,master's degree,1,1,69,91,46,71,277,B
 std-2903,male,group C,some college,0,0,54,78,53,70,255,B
 std-2904,male,group B,high school,0,0,48,85,78,61,272,B
@@ -2935,7 +2935,7 @@ std-2933,male,group E,some college,1,0,36,100,100,62,298,B
 std-2934,male,group E,high school,1,1,29,44,79,75,227,C
 std-2935,male,group B,high school,1,0,45,100,90,70,305,B
 std-2936,male,group C,some college,1,1,80,93,58,52,283,B
-std-2937,male,group E,master's degree,0,0,0,49,45,49,143,Fail
+std-2937,male,group E,master's degree,0,0,0,49,45,49,143,E
 std-2938,male,group D,associate's degree,0,0,28,83,56,30,197,D
 std-2939,male,group D,associate's degree,1,0,10,88,65,48,211,C
 std-2940,male,group D,bachelor's degree,0,1,64,87,66,58,275,B
@@ -3090,7 +3090,7 @@ std-3088,male,group C,high school,1,0,55,82,63,88,288,B
 std-3089,male,group E,some college,0,1,80,91,50,49,270,B
 std-3090,male,group A,bachelor's degree,1,1,53,68,68,55,244,C
 std-3091,male,group C,some college,1,0,48,46,39,58,191,D
-std-3092,male,group E,some college,1,0,22,52,34,35,143,Fail
+std-3092,male,group E,some college,1,0,22,52,34,35,143,E
 std-3093,male,group C,high school,0,0,47,66,62,26,201,C
 std-3094,male,group E,some college,1,0,38,88,69,100,295,B
 std-3095,male,group D,some college,1,0,27,93,62,55,237,C
@@ -3192,7 +3192,7 @@ std-3190,male,group E,some college,0,0,75,81,82,83,321,A
 std-3191,male,group D,some high school,1,0,36,71,50,81,238,C
 std-3192,male,group D,some high school,1,1,43,98,76,88,305,B
 std-3193,male,group E,associate's degree,1,1,45,46,48,59,198,D
-std-3194,male,group C,high school,0,1,11,60,37,33,141,Fail
+std-3194,male,group C,high school,0,1,11,60,37,33,141,E
 std-3195,male,group B,some high school,1,0,89,89,97,14,289,B
 std-3196,male,group C,high school,1,0,18,87,92,85,282,B
 std-3197,male,group C,associate's degree,1,0,43,44,91,43,221,C
@@ -3386,7 +3386,7 @@ std-3384,male,group B,some college,0,1,68,57,68,73,266,B
 std-3385,male,group D,bachelor's degree,1,0,52,100,100,70,322,A
 std-3386,male,group C,bachelor's degree,1,0,24,91,47,42,204,C
 std-3387,male,group D,some college,0,0,47,56,77,17,197,D
-std-3388,male,group C,bachelor's degree,1,0,25,17,55,48,145,Fail
+std-3388,male,group C,bachelor's degree,1,0,25,17,55,48,145,E
 std-3389,male,group D,some college,1,1,76,50,68,48,242,C
 std-3390,male,group E,bachelor's degree,0,0,43,57,42,66,208,C
 std-3391,male,group E,some college,1,0,44,83,62,10,199,D
@@ -3879,7 +3879,7 @@ std-3877,male,group B,some college,0,0,28,73,29,77,207,C
 std-3878,male,group B,bachelor's degree,1,0,38,39,51,74,202,C
 std-3879,male,group B,bachelor's degree,1,0,67,51,55,70,243,C
 std-3880,male,group C,master's degree,0,0,53,69,54,65,241,C
-std-3881,male,group D,associate's degree,1,0,6,46,64,30,146,Fail
+std-3881,male,group D,associate's degree,1,0,6,46,64,30,146,E
 std-3882,male,group B,associate's degree,0,0,76,97,51,79,303,B
 std-3883,male,group C,master's degree,1,1,40,90,40,79,249,C
 std-3884,male,group C,high school,1,0,81,63,95,43,282,B
@@ -3897,7 +3897,7 @@ std-3895,male,group B,associate's degree,1,1,29,89,37,47,202,C
 std-3896,male,group B,master's degree,0,1,95,85,84,46,310,B
 std-3897,male,group C,some college,1,0,63,23,54,52,192,D
 std-3898,male,group B,high school,0,0,71,96,90,85,342,A
-std-3899,male,group D,high school,0,0,42,24,30,51,147,Fail
+std-3899,male,group D,high school,0,0,42,24,30,51,147,E
 std-3900,male,group C,some college,0,1,51,78,69,77,275,B
 std-3901,male,group C,master's degree,0,0,35,53,86,63,237,C
 std-3902,male,group D,high school,0,1,27,86,83,100,296,B
@@ -3911,7 +3911,7 @@ std-3909,male,group E,associate's degree,1,0,21,86,67,65,239,C
 std-3910,male,group C,some college,0,0,43,66,59,83,251,B
 std-3911,male,group E,associate's degree,0,1,78,86,46,51,261,B
 std-3912,male,group D,some college,1,0,83,88,67,50,288,B
-std-3913,male,group E,bachelor's degree,0,0,0,59,41,41,141,Fail
+std-3913,male,group E,bachelor's degree,0,0,0,59,41,41,141,E
 std-3914,male,group A,bachelor's degree,1,0,86,77,94,80,337,A
 std-3915,male,group D,master's degree,1,1,8,30,65,100,203,C
 std-3916,male,group E,some college,1,0,18,71,78,66,233,C
@@ -4090,9 +4090,9 @@ std-4088,male,group C,some high school,1,0,14,76,89,71,250,B
 std-4089,male,group D,associate's degree,1,0,65,49,68,82,264,B
 std-4090,male,group C,some college,0,0,18,17,83,46,164,D
 std-4091,male,group C,some college,0,0,77,53,71,62,263,B
-std-4092,male,group C,some college,1,1,62,17,43,27,149,Fail
+std-4092,male,group C,some college,1,1,62,17,43,27,149,E
 std-4093,male,group D,high school,0,1,66,67,57,100,290,B
-std-4094,male,group B,associate's degree,1,0,12,46,66,9,133,Fail
+std-4094,male,group B,associate's degree,1,0,12,46,66,9,133,E
 std-4095,male,group C,bachelor's degree,0,0,72,68,82,51,273,B
 std-4096,male,group D,some college,0,1,25,97,82,55,259,B
 std-4097,male,group D,some high school,0,1,77,60,69,40,246,C
@@ -4151,7 +4151,7 @@ std-4149,male,group C,some college,1,1,94,76,58,62,290,B
 std-4150,male,group C,some college,1,1,87,80,42,95,304,B
 std-4151,male,group C,some high school,0,0,13,76,61,70,220,C
 std-4152,male,group C,some college,1,0,61,71,66,83,281,B
-std-4153,male,group D,master's degree,1,0,28,22,10,60,120,Fail
+std-4153,male,group D,master's degree,1,0,28,22,10,60,120,E
 std-4154,male,group C,some college,0,1,100,69,69,28,266,B
 std-4155,male,group D,bachelor's degree,1,0,86,85,79,62,312,B
 std-4156,male,group D,high school,1,0,51,57,57,50,215,C
@@ -4173,7 +4173,7 @@ std-4171,male,group B,some college,0,1,56,100,100,64,320,A
 std-4172,male,group B,some high school,1,1,38,66,50,58,212,C
 std-4173,male,group D,some college,1,1,58,51,67,98,274,B
 std-4174,male,group C,associate's degree,0,0,23,91,55,27,196,D
-std-4175,male,group E,high school,0,1,26,17,57,43,143,Fail
+std-4175,male,group E,high school,0,1,26,17,57,43,143,E
 std-4176,male,group A,high school,1,0,95,78,83,95,351,A
 std-4177,male,group B,some college,0,1,11,62,57,65,195,D
 std-4178,male,group B,high school,1,0,87,61,62,100,310,B
@@ -4334,7 +4334,7 @@ std-4332,male,group E,some high school,0,0,22,56,52,84,214,C
 std-4333,male,group A,some college,0,0,77,90,91,100,358,A
 std-4334,male,group B,associate's degree,1,1,64,97,64,89,314,B
 std-4335,male,group E,bachelor's degree,1,0,64,40,79,93,276,B
-std-4336,male,group C,high school,1,0,26,36,23,18,103,Fail
+std-4336,male,group C,high school,1,0,26,36,23,18,103,E
 std-4337,male,group D,high school,0,1,27,81,61,49,218,C
 std-4338,male,group B,high school,1,0,36,37,53,74,200,C
 std-4339,male,group D,associate's degree,1,0,21,85,54,83,243,C
@@ -4359,7 +4359,7 @@ std-4357,male,group C,master's degree,0,0,44,72,77,76,269,B
 std-4358,male,group C,high school,1,1,27,36,86,61,210,C
 std-4359,male,group B,associate's degree,1,0,34,100,70,58,262,B
 std-4360,male,group A,associate's degree,1,0,21,96,59,56,232,C
-std-4361,male,group B,associate's degree,0,0,13,34,49,51,147,Fail
+std-4361,male,group B,associate's degree,0,0,13,34,49,51,147,E
 std-4362,male,group D,some college,0,0,39,62,97,44,242,C
 std-4363,male,group C,high school,0,1,16,66,67,36,185,D
 std-4364,male,group D,bachelor's degree,0,1,64,79,69,87,299,B
@@ -4399,7 +4399,7 @@ std-4397,male,group C,bachelor's degree,1,0,27,92,75,92,286,B
 std-4398,male,group E,some high school,0,0,19,17,62,69,167,D
 std-4399,male,group C,associate's degree,0,0,69,60,64,77,270,B
 std-4400,male,group E,master's degree,1,0,32,91,58,90,271,B
-std-4401,male,group B,some high school,0,0,24,51,38,27,140,Fail
+std-4401,male,group B,some high school,0,0,24,51,38,27,140,E
 std-4402,male,group B,master's degree,0,1,44,100,82,84,310,B
 std-4403,male,group D,high school,0,1,30,68,52,9,159,D
 std-4404,male,group C,some college,1,1,59,85,99,98,341,A
@@ -4471,7 +4471,7 @@ std-4469,male,group D,high school,1,1,67,85,33,100,285,B
 std-4470,male,group E,some high school,1,0,76,51,77,99,303,B
 std-4471,male,group D,associate's degree,0,1,61,79,88,79,307,B
 std-4472,male,group B,some college,1,0,28,100,58,70,256,B
-std-4473,male,group D,some high school,0,0,16,65,50,9,140,Fail
+std-4473,male,group D,some high school,0,0,16,65,50,9,140,E
 std-4474,male,group B,some college,1,0,64,68,85,31,248,C
 std-4475,male,group D,some college,1,1,51,95,84,66,296,B
 std-4476,male,group B,bachelor's degree,1,1,35,84,56,100,275,B
@@ -4614,7 +4614,7 @@ std-4612,male,group C,some college,1,0,31,100,24,75,230,C
 std-4613,male,group E,master's degree,1,0,96,61,88,9,254,B
 std-4614,male,group E,master's degree,1,1,100,71,68,28,267,B
 std-4615,male,group D,associate's degree,0,0,72,100,85,76,333,A
-std-4616,male,group C,high school,1,0,30,17,56,30,133,Fail
+std-4616,male,group C,high school,1,0,30,17,56,30,133,E
 std-4617,male,group E,some high school,0,0,34,66,62,66,228,C
 std-4618,male,group A,high school,0,0,17,69,51,99,236,C
 std-4619,male,group D,master's degree,1,1,17,69,86,76,248,C
@@ -4659,7 +4659,7 @@ std-4657,male,group E,master's degree,1,1,45,52,43,33,173,D
 std-4658,male,group A,associate's degree,0,0,38,48,61,54,201,C
 std-4659,male,group B,bachelor's degree,0,0,91,100,84,60,335,A
 std-4660,male,group D,high school,1,0,68,54,47,84,253,B
-std-4661,male,group B,some high school,0,0,32,58,10,45,145,Fail
+std-4661,male,group B,some high school,0,0,32,58,10,45,145,E
 std-4662,male,group A,master's degree,0,0,72,96,84,15,267,B
 std-4663,male,group B,associate's degree,1,0,75,100,100,92,367,A
 std-4664,male,group A,high school,0,0,46,49,90,55,240,C
@@ -4732,7 +4732,7 @@ std-4730,male,group D,some high school,1,0,70,87,79,68,304,B
 std-4731,male,group D,some college,1,1,45,25,91,56,217,C
 std-4732,male,group B,associate's degree,1,1,43,37,63,67,210,C
 std-4733,male,group C,some college,1,0,80,84,29,52,245,C
-std-4734,male,group C,some high school,1,0,29,17,33,48,127,Fail
+std-4734,male,group C,some high school,1,0,29,17,33,48,127,E
 std-4735,male,group E,high school,1,0,50,51,88,69,258,B
 std-4736,male,group D,some college,0,1,50,67,57,45,219,C
 std-4737,male,group C,some college,0,0,83,41,65,71,260,B
@@ -4815,7 +4815,7 @@ std-4813,male,group E,master's degree,0,0,19,45,58,47,169,D
 std-4814,male,group C,some high school,0,0,32,74,43,50,199,D
 std-4815,male,group C,some college,1,0,38,62,68,9,177,D
 std-4816,male,group D,bachelor's degree,1,1,53,89,44,76,262,B
-std-4817,male,group E,high school,1,0,10,63,38,26,137,Fail
+std-4817,male,group E,high school,1,0,10,63,38,26,137,E
 std-4818,male,group B,some college,1,0,21,67,64,52,204,C
 std-4819,male,group D,high school,1,0,34,77,72,55,238,C
 std-4820,male,group C,some high school,1,1,85,63,63,76,287,B
@@ -5963,7 +5963,7 @@ std-5961,female,group D,some college,1,0,76,100,63,63,302,B
 std-5962,female,group E,some college,0,0,36,73,83,55,247,C
 std-5963,female,group E,some high school,0,0,59,65,78,55,257,B
 std-5964,female,group B,bachelor's degree,1,0,84,72,87,54,297,B
-std-5965,female,group B,bachelor's degree,1,0,44,25,37,41,147,Fail
+std-5965,female,group B,bachelor's degree,1,0,44,25,37,41,147,E
 std-5966,female,group E,some high school,1,1,38,53,62,38,191,D
 std-5967,female,group B,some college,0,1,67,66,94,57,284,B
 std-5968,female,group A,some high school,0,0,31,64,43,48,186,D
@@ -6647,7 +6647,7 @@ std-6645,female,group C,some high school,1,1,57,75,67,93,292,B
 std-6646,female,group D,associate's degree,0,0,55,78,87,58,278,B
 std-6647,female,group E,high school,1,1,45,74,83,37,239,C
 std-6648,female,group E,associate's degree,1,1,74,89,93,42,298,B
-std-6649,female,group E,high school,1,0,30,39,36,41,146,Fail
+std-6649,female,group E,high school,1,0,30,39,36,41,146,E
 std-6650,female,group D,associate's degree,0,1,32,65,74,89,260,B
 std-6651,female,group D,associate's degree,0,1,69,77,87,52,285,B
 std-6652,female,group D,associate's degree,0,0,43,69,90,86,288,B
